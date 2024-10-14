@@ -1,2 +1,2 @@
-# Projeto-Cordel
- HTML5 + CSS3
+# Projeto Cordel
+https://lotusbranco.github.io/Projeto-Cordel/.
